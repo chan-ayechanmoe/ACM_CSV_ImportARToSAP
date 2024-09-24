@@ -14,4 +14,10 @@ It includes the following features:
 	2,,No defined BP,24/09/2024,Item1,100
 	2,,No defined BP,24/09/2024,Item1,100
 
+Testing Environment
+Microsoft Visual Studio 2017
+Microsoft SQL Server 2017
+SAP SDK
+
+Please kindly check CSV Import_Needs file in project file.
 
