@@ -1,0 +1,20 @@
+E:\Shared Folder\TeamProjects\ACM_CSV_Import\bin\Debug\ACM_CSV_Import.exe.config
+E:\Shared Folder\TeamProjects\ACM_CSV_Import\obj\Debug\ACM_CSV_Import.FrmImport.resources
+E:\Shared Folder\TeamProjects\ACM_CSV_Import\obj\Debug\ACM_CSV_Import.Properties.Resources.resources
+E:\Shared Folder\TeamProjects\ACM_CSV_Import\obj\Debug\ACM_CSV_Import.csproj.GenerateResource.Cache
+E:\Shared Folder\TeamProjects\ACM_CSV_Import\bin\Debug\ACM_CSV_Import.exe
+E:\Shared Folder\TeamProjects\ACM_CSV_Import\bin\Debug\ACM_CSV_Import.pdb
+E:\Shared Folder\TeamProjects\ACM_CSV_Import\obj\Debug\ACM_CSV_Import.exe
+E:\Shared Folder\TeamProjects\ACM_CSV_Import\obj\Debug\ACM_CSV_Import.pdb
+C:\ayechanmoe-webprojects\ACM_CSV_ImportToSAP\ACM_CSV_Import\bin\Debug\ACM_CSV_Import.exe.config
+C:\ayechanmoe-webprojects\ACM_CSV_ImportToSAP\ACM_CSV_Import\bin\Debug\ACM_CSV_Import.exe
+C:\ayechanmoe-webprojects\ACM_CSV_ImportToSAP\ACM_CSV_Import\bin\Debug\ACM_CSV_Import.pdb
+C:\ayechanmoe-webprojects\ACM_CSV_ImportToSAP\ACM_CSV_Import\bin\Debug\SAPBusinessOneSDK.dll
+C:\ayechanmoe-webprojects\ACM_CSV_ImportToSAP\ACM_CSV_Import\obj\Debug\ACM_CSV_Import.csprojAssemblyReference.cache
+C:\ayechanmoe-webprojects\ACM_CSV_ImportToSAP\ACM_CSV_Import\obj\Debug\ACM_CSV_Import.FrmImport.resources
+C:\ayechanmoe-webprojects\ACM_CSV_ImportToSAP\ACM_CSV_Import\obj\Debug\ACM_CSV_Import.Properties.Resources.resources
+C:\ayechanmoe-webprojects\ACM_CSV_ImportToSAP\ACM_CSV_Import\obj\Debug\ACM_CSV_Import.csproj.GenerateResource.cache
+C:\ayechanmoe-webprojects\ACM_CSV_ImportToSAP\ACM_CSV_Import\obj\Debug\ACM_CSV_Import.csproj.CoreCompileInputs.cache
+C:\ayechanmoe-webprojects\ACM_CSV_ImportToSAP\ACM_CSV_Import\obj\Debug\ACM_CSV_Import.csproj.CopyComplete
+C:\ayechanmoe-webprojects\ACM_CSV_ImportToSAP\ACM_CSV_Import\obj\Debug\ACM_CSV_Import.exe
+C:\ayechanmoe-webprojects\ACM_CSV_ImportToSAP\ACM_CSV_Import\obj\Debug\ACM_CSV_Import.pdb
